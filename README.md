@@ -1,5 +1,7 @@
 # Recipes Monorepo
 
+Subject to abandonment and change. Right now, this is by and large just a project to mess around with LLM generated code.
+
 Recipes is a multi-service app for ingredient-based recipe discovery, account management, and favorites.
 This repository is organized as a monorepo so backend services, web app, docs, and operations assets can evolve together.
 
